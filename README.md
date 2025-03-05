@@ -24,3 +24,6 @@
    python3 webserv.py config.cfg
 2. Access the Server:
    Open a web browser and navigate to http://localhost:8070/ to access the server.
+
+## Acknowledgments
+This project was developed as part of the INFO1112 course, focusing on building a minimal CGI-compliant web server.
