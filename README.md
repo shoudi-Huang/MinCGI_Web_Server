@@ -12,7 +12,6 @@
 
 ## Technical Details
 - **Programming Language**: Python 3
-- **Key Libraries**: Built-in Python modules (`os`, `sys`, `socket`, `subprocess`, etc.)
 - **File Structure**:
   - `webserv.py`: The main web server script.
   - `config.cfg`: Configuration file specifying static file directory, CGI-bin directory, port, and executable path.
